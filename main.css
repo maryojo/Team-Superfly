@@ -1,0 +1,97 @@
+main{
+background-color: lightgray;
+}
+.nav-design{
+  background-color: rgb(1, 15, 37);
+    color: lightgray;
+}
+.nav-link{
+  color: lightgray;
+}
+.active-page{
+  color: lightsalmon;
+}
+.homeimage{
+  width: 100%;
+}
+.image_desc {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+  }
+  #image-text-1{
+    font-size: 50px;
+    padding: 10px;
+    font-weight: 300;
+  }
+  #image-text-2{
+padding: 10px;
+font-weight: bolder;
+  }
+  #image-text-3{
+    padding: 10px;
+    font-weight: bolder;
+  }
+  .testimonial-area{
+    background-color: rgba(248, 248, 248, 0.57);
+    color: rgb(1, 11, 27);
+  }
+  .footer-design{
+    background-color: rgb(1, 15, 37);
+    color: white;
+  }
+  .checked {
+    color: orange;
+  }
+.imgback{
+  background-image: url("architecture-blue-sky-buildings-409127.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}  
+.price{
+  background-color: white;
+}
+.popular-destination-area{
+  background-color: aliceblue;
+}
+.foot-link{
+  color: lightgray;
+  padding:0px;
+}
+.single-testimonial, .single-price{
+  padding: 30px;
+  background-color: aliceblue;
+  font-weight: 50;
+  box-shadow: 100px;
+}
+.single-testimonial{
+  margin-bottom: 10px;
+}
+.text{
+  padding:50px;
+  padding-bottom: 5px;
+}
+.popdest{
+  font-size: smaller;
+ margin-top: 5px;
+}
+.size{
+  width:200px;
+  height: 100px;
+  padding: 30px;
+}
+.logo{
+  width: 500px;
+  height: 70px;
+}
+.forpilot{
+  background-image: url("ibrahim-rifath-5KwAqo39p9k-unsplash.jpg");
+}
